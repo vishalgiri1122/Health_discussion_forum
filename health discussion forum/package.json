@@ -1,0 +1,18 @@
+{
+  "name": "health_discussion_forum",
+  "version": "1.0.0",
+  "description": "lastsemproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+    
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishalgiri1122/Health_discussion_forum"
+  },
+  "author": "Bishal Giri",
+  "license": "ISC"
+}
